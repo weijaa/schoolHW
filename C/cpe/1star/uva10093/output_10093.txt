@@ -1,0 +1,9 @@
+4
+6
+11
+34
+such number is impossible!
+45
+16
+54
+such number is impossible!

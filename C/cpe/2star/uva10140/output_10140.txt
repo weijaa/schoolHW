@@ -1,0 +1,8 @@
+2,3 are closest, 7,11 are most distant.
+There are no adjacent primes.
+1,2 are closest, 887,907 are most distant.
+There are no adjacent primes.
+1277,1279 are closest, 1327,1361 are most distant.
+1,2 are closest, 492113,492227 are most distant.
+785219,785221 are closest, 838249,838349 are most distant.
+213749021,213749023 are closest, 214214951,214215109 are most distant.

@@ -1,0 +1,6 @@
+Test #1: Symmetric.
+Test #2: Non-symmetric.
+Test #3: Symmetric.
+Test #4: Non-symmetric.
+Test #5: Symmetric.
+Test #6: Symmetric.

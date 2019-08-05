@@ -1,0 +1,8 @@
+30 10
+impossible
+impossible
+impossible
+15 0
+13 13
+51 49
+52 49

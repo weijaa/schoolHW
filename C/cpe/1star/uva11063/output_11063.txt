@@ -1,0 +1,14 @@
+Case #1: It is a B2-Sequence.
+
+Case #2: It is not a B2-Sequence.
+
+Case #3: It is not a B2-Sequence.
+
+Case #4: It is a B2-Sequence.
+
+Case #5: It is a B2-Sequence.
+
+Case #6: It is not a B2-Sequence.
+
+Case #7: It is a B2-Sequence.
+

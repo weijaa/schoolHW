@@ -1,0 +1,10 @@
+No.	Name	Sex	Math	English	Chinese
+10	Eric	M	98	67	85
+5	Bob	M	75	80	90
+3	Iris	F	88	98	59
+7	Mary	F	86	98	56
+9	Charles	M	95	81	58
+4	Jack	M	81	86	66
+6	Eva	F	67	89	74
+12	Tony	M	56	88	79
+1	Alice	F	69	51	85

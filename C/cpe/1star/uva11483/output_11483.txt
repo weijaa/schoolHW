@@ -1,0 +1,65 @@
+Case 1:
+#include<string.h>
+#include<stdio.h>
+int main()
+{
+printf("\"I like to solve\"\n");
+printf("I do not like to code\n");
+printf("\n");
+return 0;
+}
+Case 2:
+#include<string.h>
+#include<stdio.h>
+int main()
+{
+printf("yeah accepted\n");
+printf("\n");
+return 0;
+}
+Case 3:
+#include<string.h>
+#include<stdio.h>
+int main()
+{
+printf("Are you going to Scarborough Fair\?\n");
+printf("Parsley, sage, rosemary and thyme.\n");
+printf("Remember me to one who lives there.\n");
+printf("She once was a true love of mine.\n");
+printf("\n");
+printf("On the side of a hill in the deep forest green.\n");
+printf("Tracing of sparrow on snow-crested brown.\n");
+printf("Blankets and bedclothes the child of the mountain\n");
+printf("Sleeps unaware of the clarion call.\n");
+printf("\n");
+printf("Tell her to make me a cambric shirt:\n");
+printf("Parsley, sage, rosemary and thyme;\n");
+printf("Without no seams nor needle work,\n");
+printf("Then she\'ll be a true love of mine.\n");
+printf("\n");
+printf("On the side of a hill in the sprinkling of leaves.\n");
+printf("Washes the grave with silvery tears.\n");
+printf("A soldier cleans and polishes a gun.\n");
+printf("Sleeps unaware of the clarion call.\n");
+printf("\n");
+printf("Tell her to find me an acre of land:\n");
+printf("Parsley, sage, rosemary and thyme;\n");
+printf("Between the salt water and the sea strands,\n");
+printf("Then she\'ll be a true love of mine.\n");
+printf("\n");
+printf("War bellows blazing in scarlet battalions.\n");
+printf("Generals order their soldiers to kill.\n");
+printf("And to fight for a cause they have long ago forgotten.\n");
+printf("\n");
+printf("Tell her to reap it with a sickle of leather:\n");
+printf("Parsley, sage, rosemary and thyme;\n");
+printf("And gather it all in a bunch of heather,\n");
+printf("Then she\'ll be a true love of mine.\n");
+printf("\n");
+printf("Are you going to Scarborough Fair\?\n");
+printf("Parsley, sage, rosemary and thyme.\n");
+printf("Remember me to one who lives there.\n");
+printf("She once was a true love of mine.\n");
+printf("\n");
+return 0;
+}

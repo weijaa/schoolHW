@@ -1,0 +1,4 @@
+England, 4
+France, 1
+Italy, 2
+Spain, 3

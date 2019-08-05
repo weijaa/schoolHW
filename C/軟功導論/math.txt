@@ -1,0 +1,12 @@
+1. Let p and q be the propositions:
+p: I bought a lottery ticket this week.
+q: I won the million dollar jackpot.
+Express each of these propositions as an English sentence.
+(a) „«p (b) p„¬q (c) „«p„¬„«q (d) „«p„­(p„¬q)
+(a) I did not buy a lottery ticket this week.
+(b) I bought a lottery ticket this week and I won the million dollar jackpot on
+Friday.
+(c) I did not buy a lottery ticket this week, and I did not win the million dollar
+jackpot on Friday.
+(d) Either I did not buy a lottery ticket this week, or else I did buy one and won
+the million dollar jackpot on Friday.

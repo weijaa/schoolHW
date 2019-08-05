@@ -1,0 +1,3 @@
+The gopher cannot escape.
+The gopher can escape through the hole at (2.50, 2.50).
+The gopher can escape through the hole at (2.00, 1.00).

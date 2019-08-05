@@ -1,0 +1,20 @@
+Discarded cards: 1, 3, 5, 7, 4, 2
+Remaining card: 6
+Discarded cards: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 4, 8, 12, 16, 2, 10, 18, 14
+Remaining card: 6
+Discarded cards: 1, 3, 5, 7, 9, 2, 6, 10, 8
+Remaining card: 4
+Discarded cards: 1, 3, 5, 2, 6
+Remaining card: 4
+Discarded cards: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 6, 14, 22, 30, 38, 46, 10, 26, 42, 18, 2
+Remaining card: 34
+Discarded cards: 1, 3, 5, 7, 9, 11, 13, 4, 8, 12, 6, 2
+Remaining card: 10
+Discarded cards: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 2, 6, 10, 14, 18, 22, 8, 16, 4, 20
+Remaining card: 12
+Discarded cards: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 2, 6, 10, 14, 18, 22, 26, 30, 34, 38, 4, 12, 20, 28, 36, 8, 24, 40, 32
+Remaining card: 16
+Discarded cards: 1, 3
+Remaining card: 2
+Discarded cards: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 2, 6, 10, 14, 18, 22, 26, 30, 34, 38, 42, 4, 12, 20, 28, 36, 44, 16, 32, 8, 40
+Remaining card: 24

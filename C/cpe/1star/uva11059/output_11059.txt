@@ -1,0 +1,14 @@
+Case #1: The maximum product is -5.
+Case #2: The maximum product is 0.
+Case #3: The maximum product is 20.
+Case #4: The maximum product is 8.
+Case #5: The maximum product is 20.
+Case #6: The maximum product is 0.
+Case #7: The maximum product is 8.
+Case #8: The maximum product is 240.
+Case #9: The maximum product is 0.
+Case #10: The maximum product is 0.
+Case #11: The maximum product is 0.
+Case #12: The maximum product is 500.
+Case #13: The maximum product is 60.
+Case #14: The maximum product is 160.

@@ -1,0 +1,30 @@
+5
+3
+compiler 4
+cplusplus 1
+java 8
+5
+compiler
+2
+algorithm 3
+math 9
+4
+math
+2
+java 8
+ai 3
+6
+calculus
+4
+database 4
+os 5
+python 2
+network 4
+5
+os
+3
+calculus 3
+physics 4
+chemistry 5
+7
+biology

@@ -1,0 +1,45 @@
+#includ<iostream>
+		
+using namespace std;
+
+int main (int argc, char** argv) 
+
+{return ; }
+
+
+/*qwohfwo*/  
+//sfgf (only 1行
+
+cout<<輸出  cout <<*******<< endl;
+cin >>
+ if (條件)
+{命令}
+else if(condition)
+int 變量(整數
+double
+string (文字串)  char(一個字)
+bool
+&&並且
+|| 或
+PW(x,y) (x的y次方)
+
+ [figure]
+int Square(int n)
+
+for (起始;結尾;遞增條件;)
+
+#inculd<math.h>
+sprt(開根號)
+
+
+
+Print(輸出)
+
+行列式
+row(行)
+col(列)
+
+const int NUM_ROWs
+const int NUM_COLs
+
+struct 自訂數據類型

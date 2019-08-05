@@ -1,0 +1,9 @@
+No carry operation.
+3 carry operations.
+1 carry operation.
+5 carry operations.
+5 carry operations.
+7 carry operations.
+6 carry operations.
+9 carry operations.
+13 carry operations.

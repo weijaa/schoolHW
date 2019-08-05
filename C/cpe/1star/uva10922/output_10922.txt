@@ -1,0 +1,10 @@
+999999999999999999999 is a multiple of 9 and has 9-degree 3
+9 is a multiple of 9 and has degree 1
+9999999999999999999999999999998 is not a multiple of 9.
+81 is a multiple of 9 and has 9-degree 1
+99 is a multiple of 9 and has 9-degree 2
+999999 is a multiple of 9 and has 9-degree 2
+999999999999999999999333 is a multiple of 9 and has 9-degree 3
+999999999999999999999333333 is a multiple of 9 and has 9-degree 2
+84175939943939319488292913936747627489346883728271386351216251673838 is a multiple of 9 and has 9-degree 2
+84175939943939319488292913936747627489346883728271386351216251673839 is not a multiple of 9.

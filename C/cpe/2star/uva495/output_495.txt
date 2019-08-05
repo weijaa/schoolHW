@@ -1,0 +1,10 @@
+The Fibonacci number for 5 is 5.
+The Fibonacci number for 7 is 13.
+The Fibonacci number for 11 is 89.
+The Fibonacci number for 20 is 6765.
+The Fibonacci number for 25 is 75025.
+The Fibonacci number for 30 is 832040.
+The Fibonacci number for 45 is 1134903170.
+The Fibonacci number for 50 is 12586269025.
+The Fibonacci number for 60 is 1548008755920.
+The Fibonacci number for 100 is 354224848179261915075.

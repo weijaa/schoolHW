@@ -1,0 +1,34 @@
+Router>
+Router>en 
+Router#conf t
+Router(config)#hostname Cisco1841
+Cisco1841(config)#line console 0
+Cisco1841(config-line)#password Core2Quad
+Cisco1841(config-line)#login
+Cisco1841(config-line)#exit
+Cisco1841(config)#enable secret Pentium
+Cisco1841#en
+Cisco1841#conf t
+Cisco1841(config)#line vty 0 4
+Cisco1841(config-line)#password Core2Duo
+Cisco1841(config-line)#login
+Cisco1841#conf t
+Cisco1841(config)#int fa0/1
+Cisco1841(config-if)#ip address 192.168.20.1 255.255.255.192
+Cisco1841(config-if)#no shutdown
+Cisco1841(config-if)#int fa0/0
+Cisco1841(config-if)#ip address 192.168.10.1 255.255.255.192
+Cisco1841(config-if)#no shutdown
+Cisco1841(config-if)#int s0/0/0
+Cisco1841(config-if)#ip address 10.10.1.1 255.255.255.252
+Cisco1841(config-if)#no shutdown
+Cisco1841(config-if)#exit
+Cisco1841(config)#ip route 0.0.0.0 0.0.0.0 s0/0/0
+Cisco1841(config)#exit
+Cisco1841#conf t	
+Cisco1841(config)#router rip
+Cisco1841(config-router)#network 10.10.1.0
+Cisco1841(config-router)#network 192.168.10.0
+Cisco1841(config-router)#network 192.168.20.0
+Cisco1841(config-router)#exit
+Cisco1841(config-if)#service password-encryption

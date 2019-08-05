@@ -1,0 +1,24 @@
+Ash 9.5238
+Aspen 3.1746
+Basswood 1.5873
+Beech 1.5873
+Black Walnut 1.5873
+Cherry 4.7619
+Cottonwood 1.5873
+Cypress 6.3492
+Dog Wood 15.8730
+Gum 1.5873
+Hackberry 1.5873
+Hard Maple 1.5873
+Hickory 1.5873
+Pecan 1.5873
+Poplan 11.1111
+Red Alder 3.1746
+Red Elm 1.5873
+Red Oak 3.1746
+Sassafras 4.7619
+Soft Maple 1.5873
+Sycamore 3.1746
+White Oak 4.7619
+Willow 4.7619
+Yellow Birch 7.9365

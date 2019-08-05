@@ -1,0 +1,3 @@
+﻿樹1: M, F, O, C, A, D, X, Z, R
+樹2: K, A, N, X, P, Q, R, L
+樹3: X, M, P, D, C, Q

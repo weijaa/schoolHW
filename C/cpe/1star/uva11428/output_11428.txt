@@ -1,0 +1,12 @@
+2 1
+4 3
+No solution
+No solution
+5 4
+5 3
+No solution
+6 2
+No solution
+8 5
+10 8
+No solution

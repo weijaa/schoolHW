@@ -1,0 +1,37 @@
+Case# 1:
+5 found at 4
+Case# 2:
+2 not found
+3 found at 3
+Case# 3:
+2 found at 1
+10 found at 5
+15 not found
+24 found at 8
+30 found at 9
+35 not found
+45 found at 12
+50 not found
+60 found at 18
+90 found at 19
+Case# 4:
+1 found at 1
+5 found at 18
+10 found at 48
+25 found at 140
+32 found at 180
+45 found at 247
+50 found at 263
+52 found at 273
+60 found at 320
+65 found at 344
+70 found at 363
+72 found at 373
+75 found at 383
+80 found at 410
+81 found at 414
+82 found at 415
+90 found at 452
+95 found at 478
+99 found at 495
+100 found at 497

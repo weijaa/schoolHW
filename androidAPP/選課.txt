@@ -1,0 +1,5 @@
+git init
+git remote add origin http://140.134.24.157:50080/D0683262/hw3.git
+git add .
+git commit -m "hw3"
+git push -u origin master
